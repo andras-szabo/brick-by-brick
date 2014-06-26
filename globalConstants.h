@@ -13,7 +13,7 @@ enum class Move     : unsigned int { nothing, moveLeft, moveRight, moveDownLeft,
 
 const std::string   gkVersion { "0.1" };
 
-const sf::Vector2f  gkWindowSize { 800, 600 };
+const sf::Vector2f  gkWindowSize { 900, 600 };
 const sf::Vector2f  gkViewSize { 1200, 800 };
 
 const float         gkIntroFadeInSecs { 1.5 };
